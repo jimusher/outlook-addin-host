@@ -1,0 +1,6 @@
+body { font: 13px Segoe UI,Arial,sans-serif; margin: 12px; }
+h3 { margin: 0 0 8px; }
+.controls { margin: 8px 0 12px; display:flex; gap:8px; align-items:center; }
+#links a { word-break: break-all; display:block; margin:4px 0; }
+.muted { color:#777 }
+.note { color:#555; font-size:12px }
